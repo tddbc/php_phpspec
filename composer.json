@@ -1,7 +1,7 @@
 {
     "name": "tddbc/phpspec_skeleton",
     "description": "skeleton for php users.",
-    "license": "BSD-3-Clause",
+    "license": "MIT",
     "authors": [
         {
             "name": "tddbc",
