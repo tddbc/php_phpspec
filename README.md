@@ -1,4 +1,4 @@
-TDDBC for PHP with PHPUnit
+TDDBC for PHP with PhpSpec
 ==========================
 
 これは、TDDBCのPHP向けPhpSpecプロジェクトです。
