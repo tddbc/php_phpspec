@@ -1,0 +1,24 @@
+{
+    "name": "tddbc/phpspec_skeleton",
+    "description": "skeleton for php users.",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "tddbc",
+            "email": "tddbc@googlegroups.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "config": {
+        "bin-dir": "./bin"
+    },
+    "require": {
+        "php": ">= 5.3.3"
+    },
+    "require-dev": {
+        "phpspec/phpspec": "master"
+    },
+    "autoload": {
+        "psr-0": { "": "lib/" }
+    }
+}

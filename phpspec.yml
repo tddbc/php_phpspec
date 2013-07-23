@@ -1,0 +1,4 @@
+suites:
+  acme:
+    namespace: ''
+    src_path: 'lib'
