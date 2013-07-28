@@ -1,4 +1,5 @@
+formatter.name: pretty
 suites:
-  acme:
+  main:
     namespace: ''
     src_path: 'lib'

@@ -20,7 +20,11 @@ composer.phar install
 
 ```sh
 $ ./bin/phpspec run
-_______________________100%________________________2
+
+    Acme\Sample
+
+    10 ✔ is initializable
+    15 ✔ said formats hello name
 
 
 2 examples (2 passed)
