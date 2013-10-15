@@ -11,15 +11,22 @@ TDDBC for PHP with PhpSpec
 セットアップ
 ------------
 
+依存ライブラリのインストールは[Composer](http://getcomposer.org)を利用します
+
+Composerのインストール方法は[公式ドキュメント](http://getcomposer.org/doc/00-intro.md)を参照ください
+
 ```sh
-curl -sS https://getcomposer.org/installer | php
-composer.phar install
+# For Windows (Using Composer-Setup.exe)
+composer.bat install
+
+# For *nix
+php composer.phar install
 ```
 
 `./bin/phpspec`を実行して
 
 ```sh
-$ ./bin/phpspec run
+$ php ./bin/phpspec run
 
     Acme\Sample
 
