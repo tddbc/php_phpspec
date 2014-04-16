@@ -16,7 +16,7 @@
         "php": ">= 5.3.3"
     },
     "require-dev": {
-        "phpspec/phpspec": "master"
+        "phpspec/phpspec": "2.0.*@stable"
     },
     "autoload": {
         "psr-0": { "": "lib/" }
